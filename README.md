@@ -1,22 +1,3 @@
-### Parameter Optimization
-
-- ### **<a href="https://docs.google.com/presentation/d/e/2PACX-1vSOeguXJS_AfKpHdxS1aU91XQ6fN7ubknc80qwXzB1_XghMbnyuQ6Ftecd9vGKrow/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.**
-- ### Go the last slide for the assignment
-
-![image](https://github.com/user-attachments/assets/87f48bbe-32e6-4775-99a7-a269967b511d)
-
-# 14 Dataset Sources for Machine Learning and Deep Learning
-
-14 free dataset sources for Machine Learning and Deep Learning applications
-
-1. Google Dataset Search – A search engine for datasets:   https://datasetsearch.research.google.com/
-2. IBM’s collection of datasets for enterprise applications:  https://developer.ibm.com/exchanges/data/
-3. Kaggle Datasets: https://www.kaggle.com/datasets
-4. Huggingface Datasets – A Python library for loading NLP datasets: https://huggingface.co/datasets
-5. A large list organized by application domain: https://github.com/awesomedata/awesome-public-datasets
-6. Computer Vision Datasets (a really large list): https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
-7. Datasetlist – Datasets by domain: https://www.datasetlist.com/
-
 # **Title: Facial Expression Recognition**
 
 
@@ -38,7 +19,4 @@ Link: www.FacialExpressionRecognition.com
 
 ## **5. Screenshot of the Interface**
 <img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
-
-
-
 
